@@ -57,12 +57,7 @@
   <img src="https://img.shields.io/badge/n8n-FF6A3A?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-#### 🔹 Utilities & Integrations
-<p align="left">
-  <img src="https://img.shields.io/badge/NGROK-1F1F1F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Twilio_API-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+
 
 ---
 ### 📬 Connect with Me  
